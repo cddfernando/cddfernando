@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Fernando 🖐️
 
-[![LinkedIn](https://img.shields.io/badge/Fernando-linkedin-93b023?&style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/fernando-andrade-3a966347/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_13fernando/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-andrade-3a966347/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_13fernando)
 
 ![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=cddfernando&show_icons=true&theme=dracula&count_private=true)
 
