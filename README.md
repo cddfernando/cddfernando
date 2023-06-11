@@ -22,5 +22,7 @@
 <img align="center" alt="php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
  
- ![](https://raw.githubusercontent.com/cddfernando/cddfernando/output/github-contribution-grid-snake.svg)
+ 
 </div><br/>
+ 
+ ![](https://raw.githubusercontent.com/cddfernando/cddfernando/output/github-contribution-grid-snake.svg)
