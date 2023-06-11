@@ -4,9 +4,14 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_13fernando)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cdd.fernandoandrade@gmail.com)
 
-![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=cddfernando&show_icons=true&theme=dracula&count_private=true)
+ <div>
+   <a href="https://github.com/cddfernando/cddfernando">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cddfernando&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<div align="right" >
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cddfernando&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+
+<div align="center" >
 <img src="https://github.com/cddfernando/cddfernando/assets/102773017/e8034b9b-be96-4854-973c-93568353bfcd" width="250px" />
 </div>
   
