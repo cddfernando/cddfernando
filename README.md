@@ -6,11 +6,10 @@
 
  <div>
    <a href="https://github.com/cddfernando/cddfernando">
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=cddfernando&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cddfernando&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=cddfernando&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cddfernando&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
-<div align="center" >
+<div align="0" >
 <img src="https://github.com/cddfernando/cddfernando/assets/102773017/e8034b9b-be96-4854-973c-93568353bfcd" width="250px" />
 </div>
   
